@@ -1,5 +1,5 @@
 ### Hi there 👋
-  So... I'm very younger in this IT world, but I've learned so much in a short time.
+  So... I'm very young in this IT world, but I've learned so much in a short time.
   I'm very exited to learn more and more about this world, to help people solve their problems and create apps or games just to have fun. Think about it is so... Fascinating :heart_eyes:... Don't you agree? :grin:
   
   Besides Driven, I also go to college. I take a chemistry course, but I'm about to take Software Engineering. :satisfied:
