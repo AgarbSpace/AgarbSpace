@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with learn more about this IT world
-- 📫 How to reach me: https://www.linkedin.com/in/luis-henrique-braga-de-sousa-125516177/
+- 📫 How to reach me: https://www.linkedin.com/in/agarb/
 
 <div align="center">
   <a href="https://github.com/AgarbSpace">
