@@ -1,15 +1,15 @@
 ### Olá 👋, me chamo Luís Henrique
-Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento Fullstack e uma base sólida em Engenharia Eletrônica Digital. 
+Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento Fullstack, Jogos em unity e uma base sólida em Engenharia Eletrônica Digital. 
 
 Habilidades Técnicas:
 
 Front-end:  HTML, CSS, JavaScript, React, Django, Python
 
-Back-end: Java (Spring/Spring Boot), Node.js, Express, Django, Python
+Back-end: C#, Java (Spring/Spring Boot), Node.js, Express, Django, Python
 
 Banco de Dados: PostgreSQL, SQLite
 
-Ferramentas: Docker, Git, Figma
+Ferramentas: Unity, Blender, Docker, Git, Figma
 
 Metodologias: Scrum, Kanban
 
